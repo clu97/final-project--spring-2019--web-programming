@@ -46,6 +46,10 @@ a:hover {
   color: #94abec;
 }
 
+.port a {
+  font-style: normal;
+}
+
 hr {
   /*
       height: 6px;
